@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "cobra-pit",
+      "title": "Cobra Pit",
+      "category": "Reality Television",
+      "year": "Upcoming",
+      "summary": "An upcoming high-intensity game show hosted by Alex B, The Monkey King.",
+      "cover": "",
+      "featured": false,
+      "url": "",
+      "pages": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "body": "Status: Upcoming\n\nAn upcoming high-intensity game show hosted by Alex B, The Monkey King.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "judge-mathis-bounce-baby",
+      "title": "Judge Mathis — Bounce Baby",
+      "category": "Reality Television",
+      "year": "2024 · Appearance",
+      "summary": "Alex B appeared on the Judge Mathis episode “Bounce Baby.”",
+      "cover": "/portfolio/judge-mathis-alex-7b951b913dbf.webp",
+      "featured": false,
+      "url": "https://www.youtube.com/watch?v=1gYCaBy8ucM",
+      "pages": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "body": "Status: Released\n\nAlex B appeared on the Judge Mathis episode “Bounce Baby,” published by the official Judge Mathis channel on April 11, 2024.\n\nThe case centers on two loans and disputed repayment checks. Watch the full episode using the episode link.",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "false-hawks",
+      "title": "False Hawks (2025)",
+      "category": "Film",
+      "year": "2025 · Completed",
+      "summary": "Alex B stars as the town's drifter in the independent cosmic horror film False Hawks.",
+      "cover": "/portfolio/false-hawks-95d781042ab6.webp",
+      "featured": false,
+      "url": "https://www.youtube.com/watch?v=xoSHJ8mRNJI",
+      "pages": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "body": "Status: Completed\n\nStarred as the Towns Drifter in the indie cosmic horror film, False Hawks (2025).\n\nThe film follows two detectives who have fallen from grace and are trying to unravel a supernatural, \"cosmic mystery\". The tone of the film is described as both \"spooky\" and \"a knee slapper\".\n\nFalse Hawks was independently financed, with a crowdfunding campaign on Indiegogo run by director Seth Harris to cover production costs, including actor compensation, props, and travel.\n\nIMDb: https://www.imdb.com/title/tt37244987/",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "fishtank-live",
+      "title": "Fishtank.live",
+      "category": "Reality Television",
+      "year": "Season 3 and Season 5",
+      "summary": "Alex B brought his storytelling, quick wit and larger-than-life personality to Season 3 of Fishtank.",
+      "cover": "/portfolio/fishtank-logo-34df6e8aec14.webp",
+      "featured": false,
+      "url": "",
+      "pages": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "body": "Status: Ongoing\n\nA natural entertainer and one of the most memorable contestants from Season 3 of Fishtank, Alex B brought an unmatched energy and larger-than-life personality to the house from the moment he walked in. Known for his captivating storytelling and quick wit, he was a central figure in the season's most intense rivalries and alliances. Alex fearlessly stood up to online trolls, creating unforgettable moments as he passionately defended his family and pets on the live broadcast. Ultimately choosing to exit the show on his own terms, Alex has continued engaging with the Fishtank community through appearances on Magic Stars and a return as a freeloader during Fishtank Season 5.",
+          "image": ""
+        }
+      ]
+    }
+  ],
+  "about": {
+    "heading": "Alex B — The Monkey King",
+    "intro": "Entertainer, streamer, actor and creator.",
+    "body": "Known online as The Monkey King, Alex B is an on-camera personality who brings high energy, quick wit and a direct connection with his audience to every project.\n\nHis work spans livestreaming, reality television, independent film and original live entertainment. He appeared in Seasons 3 and 5 of Fishtank, starred in the 2025 independent film False Hawks, and is developing Cobra Pit, an upcoming high-intensity game show.\n\nThis site is the official home for his current projects, appearances, community links and ways to get in touch."
+  },
+  "contact": {
+    "heading": "Have a project in mind?",
+    "intro": "For projects, collaborations and enquiries.",
+    "email": "alexander@bernardfinancialllc.com",
+    "location": ""
+  }
+}
