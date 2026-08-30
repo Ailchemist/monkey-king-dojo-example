@@ -64,6 +64,13 @@ test('multi-layer social logos stay behind the glass and span several depth-buff
   }
 });
 
+test('Twitch artwork uses parser-independent inline brand fills', () => {
+  const twitch = readFileSync('public/brands/twitch.svg', 'utf8');
+  assert.match(twitch, /fill="#FFFFFF"/);
+  assert.equal((twitch.match(/fill="#9146FF"/g) ?? []).length, 3);
+  assert.doesNotMatch(twitch, /class="st[01]"|\.st[01]\s*\{/);
+});
+
 test('ten targets, including stacked door signs and full display windows, do not overlap on phones or ultrawide', () => {
   const camera = new THREE.PerspectiveCamera(FRONT_FOV, 1, .08, 400);
   const photoBox = (x, y, width, height, z) => {
